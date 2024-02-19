@@ -236,6 +236,7 @@ int main (void){
     else{
         printf("OPCAO NAO EXISTE");
     }
+    print("maria");
 
     return 0;
 }
